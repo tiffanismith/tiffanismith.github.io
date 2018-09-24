@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+  color: #4298B1;
+  font-family: "Helvetica",sans-serif;
+}
+
+h1 {
+font-size: 50px;
+letter-spacing: 1px;
+border: 2px dotted;
+padding: 15px;
+margin-bottom: 40px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+  font-style: italic;
+  letter-spacing: 1px;
+  padding: 15px;
+  margin-bottom: 40px;
+}
+
+
+#banner {
+  display: block;
+  margin: 0 auto;
+}
+
+#visionboard {
+  display: block;
+  margin: 0 auto;
+}
+
+li {
+  display: block;
+  background-color: #D2B48C;
+  margin: 0 auto;
+  font-size: 25px;
+  text-align: center;
+}
